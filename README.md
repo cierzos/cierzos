@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+```typescript
+const me = new Profile({
+  bio: "I'm a passionate Software Developer focused on creating and continuously learning new technologies 🚀",
+  occupation: "Software Developer 💻",
+  technologies: ["JavaScript", "TypeScript", "Node.js", "NestJS", "Docker", "Linux"],
+  hobbies: ["Coding 🧑‍💻", "Gaming 🎮", "Reading 📚", "Hiking 🏞️", "Running 🏃‍♂️"]
+});
+```
+
 <!--
 **cierzos/cierzos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
